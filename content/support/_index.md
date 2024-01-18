@@ -3,7 +3,11 @@ title: Find help
 toc: false
 ---
 
-Best-in-class release management for IBM i applications. Deploy IBM i apps and database upgrades in sync with distributed systems – on prem, hybrid and multi-cloud. Transfer high-volume data with near-zero disruption of users. Manage critical data ‘as code’ with full audit trail. For Application Release Orchestration, use DROPS with enterprise tools IBM UrbanCode and HCL Launch.
+Some support can be found here. 
+
+A glossary
+
+Some how to and FAQ
 
 ## How to
 
