@@ -1,5 +1,5 @@
 ---
-title: Find help
+title: Support
 toc: false
 ---
 
