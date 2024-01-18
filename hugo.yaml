@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Fox for i
 
 # import hextra as module
 module:
@@ -18,34 +18,46 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
-      weight: 1
     - name: About
       pageRef: /about
+      weight: 1
+    - name: Blog
+      pageRef: /blog
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
+    - name: Docs
+      pageRef: /docs
       weight: 3
-    - name: Search
+    - name: Support
+      pageRef: /support
       weight: 4
+    - name: Contact ↗
+      url: "https://en.wikipedia.org/wiki/FoxPro"
+      weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
     - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      weight: 7
+      url: "https://github.com/vinnciane/adoc2"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
+    - name: Linkedin
+      weight: 8
+      url: "https://www.linkedin.com/company/arcad-software/"
       params:
-        icon: x-twitter
+        icon: linkedin
 
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: images/fox-light.svg
+      dark: images/fox-dark.svg
+      link: /
+      width: 50
+      height: 50
 
   footer:
     displayCopyright: false
@@ -53,4 +65,4 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/vinnciane/adoc2/edit/main/content"
