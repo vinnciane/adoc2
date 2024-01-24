@@ -8,11 +8,12 @@ Best-in-class release management for IBM i applications. Deploy IBM i apps and d
 ## Explore
 
 {{< cards >}}
-  {{< card link="about" title="About" icon="user" >}}
-  {{< card link="blog" title="Blog" icon="book-open" >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="about" title="About" icon="user" subtitle="Fox for i, in a nutshell.">}}
+  {{< card link="blog" title="Blog" icon="book-open" subtitle="Fox for i latest cool features.">}}
+  {{< card link="docs" title="Docs" icon="book-open" subtitle="Everything you need to know about Fox for i.">}}
+  {{< card link="support" title="Support" icon="user" subtitle="Get the best tips from our Support team." >}}
 {{< /cards >}}
 
-## Documentation
+## External links
 
 For more information, visit [Fox for i](https://allthingsfoxes.com/).

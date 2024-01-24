@@ -11,7 +11,7 @@ authors:
 tags:
   - Fox
   - Canids
-  - Guide
+  - Animals
 excludeSearch: false
 ---
 

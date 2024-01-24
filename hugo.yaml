@@ -1,5 +1,7 @@
 # Hugo configuration file
 title: Fox for i
+baseURL: https://vinnciane.github.io/adoc2/
+languageCode: en-us
 
 # import hextra as module
 module:
@@ -66,3 +68,7 @@ params:
   editURL:
     enable: true
     base: "https://github.com/vinnciane/adoc2/edit/main/content"
+
+  services:
+    googleAnalytics:
+      ID: G-MEASUREMENT_ID
